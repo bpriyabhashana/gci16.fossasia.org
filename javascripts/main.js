@@ -9,7 +9,7 @@ var thank = function() {
       if (j === contributorsList.length) {
         j = 0;
       }
-      if (i === thankList.length) {
+       if (j === thankList.length) {
         i = 0;
         thankList = shuffler(thankList);
       }
